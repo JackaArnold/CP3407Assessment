@@ -15,7 +15,6 @@ def averageFinder(x, y):
 db_read = pd.read_csv("storedWeatherData.csv")
 
 
-
 def append_list_as_row(file_name, list_of_elem):
     # Open file in append mode
     with open(file_name, 'a+', newline='') as write_obj:
@@ -53,7 +52,6 @@ for i in range(len('cities.csv')):
     if date_tester != date:
         append_list_as_row('storedWeatherData.csv', new_row)
 
-
 app = create_app()
 if __name__ == '__main__':
-        app.run(debug=True)
+    app.run(debug=True)
