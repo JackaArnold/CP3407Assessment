@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" type="text/css" href="/static/styles.css" />
+<head>
+    <meta charset="UTF-8">
+    <title>Cp3407 Weather Analysis</title>
+
+</head>
+
+<body>
+    <h1 id="title">{{info_two_days[1]}}</h1>
+    <div class="center">
+        
+        
+        <div id="info_two_days">
+        
+        
+        <h2>Two Days Ago</h2>
+        <h1>{{info_two_days[2]}}°C</h1>
+        
+        <h4>Humidity: {{info_two_days[3]}}% </h4>
+        <h4>Wind: {{info_two_days[4]}} mph {{info_two_days[5]}} </h4>
+        <img src={{info_two_days[6]}} alt="Rain" style="width: 125px;height: 125px;">
+        </div>
+        <div id="info_yesterday">
+            
+            <h2>Yesterday</h2>
+            <h1>{{info_yesterday[2]}}°C</h1>
+            
+            <h4>Humidity: {{info_yesterday[3]}}% </h4>
+            <h4>Wind: {{info_yesterday[4]}} mph {{info_yesterday[5]}} </h4>
+            <img src={{info_yesterday[6]}} alt="Rain" style="width: 125px;height: 125px;">
+        </div>
+        <div id="info_today">
+        
+            <h2>Today</h2>
+            <h1>{{info_today[2]}}°C</h1>
+            
+            <h4>Humidity: {{info_today[3]}}% </h4>
+            <h4>Wind: {{info_today[4]}} mph {{info_today[5]}} </h4>
+            <img src={{info_today[6]}} alt="Rain" style="width: 125px;height: 125px;">
+        </div>
+        
+           </a>
+        </div>
+    <a href="/dallas">
+    <img id="btn1" src="/static/arrow_left.png" alt="Left" style="width: 125px;height: 125px;">
+    </a>
+
+    <a href="/houston">
+    <img id="btn2" src="/static/arrow_right.png" alt="Right" style="width: 125px;height: 125px;">
+    </a>
+</body>
+</html>
