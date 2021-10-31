@@ -1,0 +1,37 @@
+Date,City,Temp,Humidity,WindSpeed,WindDir,img
+2021-10-28 21:30,New York,14,87.5,1.8,ESE,//cdn.weatherapi.com/weather/64x64/night/296.png
+2021-10-30,New York,14,92.5,0.67,N,//cdn.weatherapi.com/weather/64x64/night/143.png
+2021-10-31,London,8,91.5,4.995,SE,//cdn.weatherapi.com/weather/64x64/night/116.png
+2021-10-31,Sydney,19,48.0,7.484999999999999,E,//cdn.weatherapi.com/weather/64x64/day/113.png
+2021-10-31,Melbourne,17,66.0,2.9299999999999997,SE,//cdn.weatherapi.com/weather/64x64/day/116.png
+2021-10-31,Brisbane,22,63.5,7.92,SSE,//cdn.weatherapi.com/weather/64x64/day/116.png
+2021-10-30,Los Angeles,16,83.0,2.67,W,//cdn.weatherapi.com/weather/64x64/night/143.png
+2021-10-30,Chicago,10,82.0,4.085,WNW,//cdn.weatherapi.com/weather/64x64/night/116.png
+2021-10-30,Dallas,15,42.5,4.085,ESE,//cdn.weatherapi.com/weather/64x64/night/113.png
+2021-10-30,Long Beach,15,86.5,3.1799999999999997,SSE,//cdn.weatherapi.com/weather/64x64/night/116.png
+2021-10-30,Houston,17,37.0,0.77,N,//cdn.weatherapi.com/weather/64x64/night/113.png
+2021-10-28 21:30,New York,14,87.5,1.8,ESE,//cdn.weatherapi.com/weather/64x64/night/296.png
+2021-10-30,New York,14,92.5,0.67,N,//cdn.weatherapi.com/weather/64x64/night/143.png
+2021-10-31,London,8,91.5,4.995,SE,//cdn.weatherapi.com/weather/64x64/night/116.png
+2021-10-31,Sydney,19,48.0,7.484999999999999,E,//cdn.weatherapi.com/weather/64x64/day/113.png
+2021-10-31,Melbourne,17,66.0,2.9299999999999997,SE,//cdn.weatherapi.com/weather/64x64/day/116.png
+2021-10-31,Brisbane,22,63.5,7.92,SSE,//cdn.weatherapi.com/weather/64x64/day/116.png
+2021-10-30,Los Angeles,16,83.0,2.67,W,//cdn.weatherapi.com/weather/64x64/night/143.png
+2021-10-30,Chicago,10,82.0,4.085,WNW,//cdn.weatherapi.com/weather/64x64/night/116.png
+2021-10-30,Dallas,15,42.5,4.085,ESE,//cdn.weatherapi.com/weather/64x64/night/113.png
+2021-10-30,Long Beach,15,86.5,3.1799999999999997,SSE,//cdn.weatherapi.com/weather/64x64/night/116.png
+2021-10-30,Houston,17,37.0,0.77,N,//cdn.weatherapi.com/weather/64x64/night/113.png
+2021-10-28 21:30,New York,14,87.5,1.8,ESE,//cdn.weatherapi.com/weather/64x64/night/296.png
+2021-10-30,New York,14,92.5,0.67,N,//cdn.weatherapi.com/weather/64x64/night/143.png
+2021-10-31,London,8,91.5,4.995,SE,//cdn.weatherapi.com/weather/64x64/night/116.png
+2021-10-31,Sydney,19,48.0,7.484999999999999,E,//cdn.weatherapi.com/weather/64x64/day/113.png
+2021-10-31,Melbourne,17,66.0,2.9299999999999997,SE,//cdn.weatherapi.com/weather/64x64/day/116.png
+2021-10-31,Brisbane,22,63.5,7.92,SSE,//cdn.weatherapi.com/weather/64x64/day/116.png
+2021-10-30,Los Angeles,16,83.0,2.67,W,//cdn.weatherapi.com/weather/64x64/night/143.png
+2021-10-30,Chicago,10,82.0,4.085,WNW,//cdn.weatherapi.com/weather/64x64/night/116.png
+2021-10-30,Dallas,15,42.5,4.085,ESE,//cdn.weatherapi.com/weather/64x64/night/113.png
+2021-10-30,Long Beach,15,86.5,3.1799999999999997,SSE,//cdn.weatherapi.com/weather/64x64/night/116.png
+2021-10-30,Houston,17,37.0,0.77,N,//cdn.weatherapi.com/weather/64x64/night/113.png2021-10-31,London,8,91.5,4.995,SE,//cdn.weatherapi.com/weather/64x64/night/116.png
+2021-10-31,Sydney,19,48.0,7.484999999999999,E,//cdn.weatherapi.com/weather/64x64/day/113.png
+2021-10-31,Melbourne,17,66.0,2.9299999999999997,SE,//cdn.weatherapi.com/weather/64x64/day/116.png
+2021-10-31,Brisbane,22,63.5,7.92,SSE,//cdn.weatherapi.com/weather/64x64/day/116.png
