@@ -45,7 +45,6 @@ for i in range(len('cities.csv')):
     # Write to DB
 
     new_row = [date, df.Cities[i], int(avgTemp), avgHumidity, avgWindSpeed, windDir, currentConditionIcon]
-    print(len(db_read))
     len_db_read = len(db_read) - (10 - i)
     date_tester = db_read.iloc[len_db_read][0]
 
